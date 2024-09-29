@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056982834254",
+    "project_id": "order-manage-2318f",
+    "storage_bucket": "order-manage-2318f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056982834254:android:fc9ae192bd87989a77371f",
+        "android_client_info": {
+          "package_name": "com.example.ordermanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaINnTx0DLC3VW52ExLC82LRxjRg8-Bpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
